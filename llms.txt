@@ -1,0 +1,52 @@
+# Geotechnique — Dunkerque
+
+> Geotechnical engineering services in Dunkerque, France.
+
+## Services
+- [Amelioration Sols](https://dunkerque.geotechnique.biz/amelioration-sols/)
+- [Ancrages](https://dunkerque.geotechnique.biz/ancrages/)
+- [Cbr Routier](https://dunkerque.geotechnique.biz/cbr-routier/)
+- [Chaussee Rigide](https://dunkerque.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://dunkerque.geotechnique.biz/chaussee-souple/)
+- [Colonnes Ballastees](https://dunkerque.geotechnique.biz/colonnes-ballastees/)
+- [Confidentialite](https://dunkerque.geotechnique.biz/confidentialite/)
+- [Densite Cone Sable](https://dunkerque.geotechnique.biz/densite-cone-sable/)
+- [Essai Cpt](https://dunkerque.geotechnique.biz/essai-cpt/)
+- [Essais Proctor](https://dunkerque.geotechnique.biz/essais-proctor/)
+- [Excavations](https://dunkerque.geotechnique.biz/excavations/)
+- [Excavations Profondes](https://dunkerque.geotechnique.biz/excavations-profondes/)
+- [Fondations](https://dunkerque.geotechnique.biz/fondations/)
+- [Geotechnique Routiere](https://dunkerque.geotechnique.biz/geotechnique-routiere/)
+- [Granulometrie](https://dunkerque.geotechnique.biz/granulometrie/)
+- [Injections](https://dunkerque.geotechnique.biz/injections/)
+- [Investigation](https://dunkerque.geotechnique.biz/investigation/)
+- [Isolation Sismique](https://dunkerque.geotechnique.biz/isolation-sismique/)
+- [Labo In Situ](https://dunkerque.geotechnique.biz/labo-in-situ/)
+- [Laboratoire](https://dunkerque.geotechnique.biz/laboratoire/)
+- [Limites Atterberg](https://dunkerque.geotechnique.biz/limites-atterberg/)
+- [Liquefaction](https://dunkerque.geotechnique.biz/liquefaction/)
+- [Masw](https://dunkerque.geotechnique.biz/masw/)
+- [Microzonage Sismique](https://dunkerque.geotechnique.biz/microzonage-sismique/)
+- [Murs Soutenement](https://dunkerque.geotechnique.biz/murs-soutenement/)
+- [Permeabilite In Situ](https://dunkerque.geotechnique.biz/permeabilite-in-situ/)
+- [Pieux](https://dunkerque.geotechnique.biz/pieux/)
+- [Puits Inspection](https://dunkerque.geotechnique.biz/puits-inspection/)
+- [Radiers](https://dunkerque.geotechnique.biz/radiers/)
+- [Refraction Sismique](https://dunkerque.geotechnique.biz/refraction-sismique/)
+- [Resistivite](https://dunkerque.geotechnique.biz/resistivite/)
+- [Semelles](https://dunkerque.geotechnique.biz/semelles/)
+- [Sismique](https://dunkerque.geotechnique.biz/sismique/)
+- [Sondages Spt](https://dunkerque.geotechnique.biz/sondages-spt/)
+- [Stabilite Talus](https://dunkerque.geotechnique.biz/stabilite-talus/)
+- [Surveillance Excavations](https://dunkerque.geotechnique.biz/surveillance-excavations/)
+- [Talus](https://dunkerque.geotechnique.biz/talus/)
+- [Triaxial](https://dunkerque.geotechnique.biz/triaxial/)
+- [Tunnels Sol Mou](https://dunkerque.geotechnique.biz/tunnels-sol-mou/)
+- [Vibrocompactage](https://dunkerque.geotechnique.biz/vibrocompactage/)
+
+## Contact
+- Website: https://dunkerque.geotechnique.biz/
+
+## About
+This site provides geotechnical engineering services in Dunkerque, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
